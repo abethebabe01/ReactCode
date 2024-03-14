@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abela\\OneDrive\\Desktop\\ReactCode\\backend\\BowlingAPI\\BowlingAPI.csproj": {}
+    "C:\\Users\\abela\\OneDrive\\Desktop\\EpicBowlerMoment\\backend\\BowlingAPI\\BowlingAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abela\\OneDrive\\Desktop\\ReactCode\\backend\\BowlingAPI\\BowlingAPI.csproj": {
+    "C:\\Users\\abela\\OneDrive\\Desktop\\EpicBowlerMoment\\backend\\BowlingAPI\\BowlingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abela\\OneDrive\\Desktop\\ReactCode\\backend\\BowlingAPI\\BowlingAPI.csproj",
+        "projectUniqueName": "C:\\Users\\abela\\OneDrive\\Desktop\\EpicBowlerMoment\\backend\\BowlingAPI\\BowlingAPI.csproj",
         "projectName": "BowlingAPI",
-        "projectPath": "C:\\Users\\abela\\OneDrive\\Desktop\\ReactCode\\backend\\BowlingAPI\\BowlingAPI.csproj",
+        "projectPath": "C:\\Users\\abela\\OneDrive\\Desktop\\EpicBowlerMoment\\backend\\BowlingAPI\\BowlingAPI.csproj",
         "packagesPath": "C:\\Users\\abela\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abela\\OneDrive\\Desktop\\ReactCode\\backend\\BowlingAPI\\obj\\",
+        "outputPath": "C:\\Users\\abela\\OneDrive\\Desktop\\EpicBowlerMoment\\backend\\BowlingAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abela\\AppData\\Roaming\\NuGet\\NuGet.Config",
